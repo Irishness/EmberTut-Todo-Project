@@ -1,0 +1,1 @@
+This is my first project teaching myself how to use Ember.js. Straight from the initial tutorial. Simple ToDo app.
